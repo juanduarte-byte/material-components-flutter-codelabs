@@ -6,7 +6,6 @@ const kShrinePink300 = Color(0xFFFBB8AC);
 const kShrinePink400 = Color(0xFFEAA4A4);
 
 const kShrineBrown900 = Color(0xFF442B2D);
-const kShrinePurple = Color(0xFF5D1049);
 
 const kShrineErrorRed = Color(0xFFC5032B);
 
